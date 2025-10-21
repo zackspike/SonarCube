@@ -1,5 +1,4 @@
 import java.io.*;
-import javax.swing.*;
 public class FileLoader
 {
     public void loadFile(String fileName)
